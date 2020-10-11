@@ -21,4 +21,8 @@ public class CalculatorTest {
 		sut.mult(2);
 		assertEquals("1*2 = 2", 2, sut.getState());
 	}
+	
+	sdfsdf
+		
+		fdsfsdf
 }
